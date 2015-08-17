@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="white">#ffffffff</color>
-    <color name="black">#ff000000</color>
+    <color name="black">#ff565656</color>
     <color name="bbutton_edittext_border">#ccc</color>
     <color name="bbutton_edittext_disabled">#ffe0e0e0</color>
 
-    <color name="bbutton_primary">#ff428bca</color>
-    <color name="bbutton_primary_edge">#ff357ebd</color>
+    <color name="bbutton_primary">#ff4A90E2</color>
+    <color name="bbutton_primary_edge">#ff4A90E2</color>
     <color name="bbutton_primary_pressed">#ff3276b1</color>
-    <color name="bbutton_primary_pressed_edge">#ff285e8e</color>
+    <color name="bbutton_primary_pressed_edge">#ff3276b1</color>
     <color name="bbutton_primary_disabled">#a5428bca</color>
-    <color name="bbutton_primary_disabled_edge">#a5357ebd</color>
+    <color name="bbutton_primary_disabled_edge">#a5428bca</color>
 
     <color name="bbutton_danger">#ffd9534f</color>
     <color name="bbutton_danger_edge">#ffd43f3a</color>
@@ -42,12 +42,12 @@
     <color name="bbutton_info_disabled">#a55bc0de</color>
     <color name="bbutton_info_disabled_edge">#a546b8da</color>
 
-    <color name="bbutton_default">#ffffffff</color>
-    <color name="bbutton_default_edge">#ffcccccc</color>
-    <color name="bbutton_default_pressed">#ffebebeb</color>
+    <color name="bbutton_default">#ffD0D0D0</color>
+    <color name="bbutton_default_edge">#ffD0D0D0</color>
+    <color name="bbutton_default_pressed">#ffadadad</color>
     <color name="bbutton_default_pressed_edge">#ffadadad</color>
     <color name="bbutton_default_disabled">#a5ffffff</color>
-    <color name="bbutton_default_disabled_edge">#a5cccccc</color>
+    <color name="bbutton_default_disabled_edge">#a5ffffff</color>
 
     <color name="bbutton_inverse">#ff0a0a0a</color>
     <color name="bbutton_inverse_edge">#ff141414</color>
